@@ -90,3 +90,12 @@ You are responsible for complying with local laws and ethical standards.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=%E2%98%A0%EF%B8%8F+Z3R0D4Y+TEAM" />  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Learn.+Break.+Defend." />  
 </p>  
+
+---
+
+<p align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=%E2%98%A0%EF%B8%8F+Z3R0D4Y+TEAM" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Learn.+Break.+Defend." />  
+</p>  
+
+---
