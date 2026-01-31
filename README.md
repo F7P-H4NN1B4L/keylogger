@@ -42,7 +42,14 @@ The goal is to help cybersecurity learners understand **how keylogging attacks o
 - Automatic log cleanup
 - Username and timestamp tagging
 - Large log handling via file upload
-- ```pyinstaller --onefile --noconsole keylogger.py``` {to make the script run with no window}
+- ```bash
+  git clone https://github.com/F7P-H4NN1B4L/keylogger.git
+  pip3 install -r requirements --break-system-packages
+  ```
+- ```bash
+  pyinstaller --onefile --noconsole keylogger.py
+  ```
+   {to make the script run with no window}
 
 ---
 
