@@ -2,14 +2,13 @@
 
 <!-- Skill Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green" />
-  <img src="https://img.shields.io/badge/Red%20Team-8B0000?style=for-the-badge&logo=sketchfab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blue%20Team-003366?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Malware%20Analysis-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=flat&logo=hackthebox&logoColor=green" />
+  <img src="https://img.shields.io/badge/Red%20Team-8B0000?style=flat" />
+  <img src="https://img.shields.io/badge/Blue%20Team-003366?style=flat" />
+  <img src="https://img.shields.io/badge/Malware%20Analysis-4B0082?style=flat" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-000000?style=flat&logo=kalilinux&logoColor=white" />
 </p>
-
 ---
 
 > **⚠️ Disclaimer**
@@ -52,6 +51,7 @@ The goal is to help cybersecurity learners understand **how keylogging attacks o
 - Automatic log cleanup
 - Username and timestamp tagging
 - Large log handling via file upload
+- ```pyinstaller --onefile --noconsole keylogger.py``` {to make the script run with no window}
 
 ---
 
@@ -81,15 +81,6 @@ The goal is to help cybersecurity learners understand **how keylogging attacks o
 
 ---
 
-## 📚 Learning Takeaways
-
-- How attackers log user input
-- How data exfiltration works
-- Why endpoint protection matters
-- How to recognize suspicious behavior
-- How SOC teams investigate keyloggers
-
----
 
 ## 🧩 Future Improvements (Educational)
 
