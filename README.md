@@ -31,15 +31,6 @@ This Python script demonstrates how a **basic keylogger** can be implemented usi
 
 The goal is to help cybersecurity learners understand **how keylogging attacks operate** so they can better **detect and mitigate them**.
 
----
-
-## 🧠 Educational Objectives
-
-- Learn how keyboard events are captured at the OS level
-- Understand periodic data exfiltration methods
-- Analyze how attackers format and transmit logs
-- Improve detection techniques (EDR / AV / SIEM)
-- Practice ethical red team analysis
 
 ---
 
@@ -55,18 +46,11 @@ The goal is to help cybersecurity learners understand **how keylogging attacks o
 
 ---
 
-## 🛡️ Ethical Usage
+## ⚠️ Ethics & Disclaimer
 
-✔️ Allowed:
-- Learning cybersecurity concepts
-- Malware analysis labs
-- Red team simulations (with permission)
-- Defensive research
-
-❌ Not allowed:
-- Spying on users
-- Unauthorized monitoring
-- Illegal deployment
+🚨 Educational & authorized use only
+🧪 Labs • CTFs • Research
+❌ No illegal activity
 
 ---
 
@@ -82,12 +66,9 @@ The goal is to help cybersecurity learners understand **how keylogging attacks o
 ---
 
 
-## 🧩 Future Improvements (Educational)
+## 📧 Contact me 
 
-- Encryption of logs
-- Detection evasion analysis (defensive study)
-- SIEM detection rules
-- Memory-based logging research
+E-Mail: Z3R0D4Y@tutamail.com
 
 ---
 
@@ -95,3 +76,10 @@ The goal is to help cybersecurity learners understand **how keylogging attacks o
 
 This project is released for **educational and research use only**.
 You are responsible for complying with local laws and ethical standards.
+
+---
+
+<p align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=%E2%98%A0%EF%B8%8F+Z3R0D4Y+TEAM" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Learn.+Break.+Defend." />  
+</p>  
